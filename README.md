@@ -1,4 +1,6 @@
-### Hi there 👋
+###[Game Developer](https://strueux.itch.io/)
+
+Studying part time at HEIG-VD
 
 <!--
 **GuggisbergSimon/GuggisbergSimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
