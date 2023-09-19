@@ -1,7 +1,8 @@
 ### Game Developer, part time student
 
-Student at [HEIG-VD](https://heig-vd.ch/)
 [Itch](https://strueux.itch.io/)
+
+Student at [HEIG-VD](https://heig-vd.ch/)
 
 [LinkedIn](https://www.linkedin.com/in/simon-guggisberg-122366200/)
 
