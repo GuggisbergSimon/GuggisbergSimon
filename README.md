@@ -1,4 +1,4 @@
-###[Game Developer](https://strueux.itch.io/)
+### [Game Developer](https://strueux.itch.io/)
 
 Studying part time at HEIG-VD
 
