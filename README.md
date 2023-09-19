@@ -1,6 +1,9 @@
-### [Game Developer](https://strueux.itch.io/)
+### Game Developer, part time student
 
-Studying part time at HEIG-VD
+Student at [HEIG-VD](https://heig-vd.ch/)
+[Itch](https://strueux.itch.io/)
+
+[LinkedIn](https://www.linkedin.com/in/simon-guggisberg-122366200/)
 
 <!--
 **GuggisbergSimon/GuggisbergSimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
